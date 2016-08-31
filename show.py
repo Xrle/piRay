@@ -1,4 +1,4 @@
-from astro_pi import AstroPi
+from sense_hat import AstroPi
 ap = AstroPi()
 
 def draw(rate,subtracted):
