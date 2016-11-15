@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo python3 run.py -n Radiationpi
+sudo python3 run.py -n piRay
